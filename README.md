@@ -29,9 +29,9 @@ On terminal run the following command to start the server locally:
 ## Customization
 
 - To change the API URL:
-- Open the `index.js` file.
-- Modify the `url` variable to the desired API URL.
+    - Open the `index.js` file.
+    - Modify the `url` variable to the desired API URL.
 
 - To adjust the timer duration:
-- Open the `index.js` file.
-- Modify the argument passed to the `readLiveData` function.
+    - Open the `index.js` file.
+    - Modify the argument passed to the `readLiveData` function.
