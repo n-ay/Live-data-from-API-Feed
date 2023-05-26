@@ -25,3 +25,13 @@ To run this project, you need to have the following installed on your machine:
 On terminal run the following command to start the server locally: 
 
 <code>node index.js</code>
+
+## Customization
+
+- To change the API URL:
+- Open the `index.js` file.
+- Modify the `url` variable to the desired API URL.
+
+- To adjust the timer duration:
+- Open the `index.js` file.
+- Modify the argument passed to the `readLiveData` function.
