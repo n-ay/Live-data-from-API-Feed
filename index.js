@@ -34,7 +34,7 @@ function readLiveData(timerDurationInSeconds) {
   }, timerDurationInSeconds * 1000);
 }
 
-readLiveData(5); //calling function for 30 seconds
+readLiveData(5); //calling function for 5 seconds
 
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
